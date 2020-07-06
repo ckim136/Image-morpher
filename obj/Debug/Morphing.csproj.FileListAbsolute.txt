@@ -1,0 +1,11 @@
+C:\Users\kimem\source\repos\Morphing\bin\Debug\Morphing.exe.config
+C:\Users\kimem\source\repos\Morphing\bin\Debug\Morphing.exe
+C:\Users\kimem\source\repos\Morphing\bin\Debug\Morphing.pdb
+C:\Users\kimem\source\repos\Morphing\obj\Debug\Morphing.csprojAssemblyReference.cache
+C:\Users\kimem\source\repos\Morphing\obj\Debug\Morphing.Form1.resources
+C:\Users\kimem\source\repos\Morphing\obj\Debug\Morphing.Properties.Resources.resources
+C:\Users\kimem\source\repos\Morphing\obj\Debug\Morphing.csproj.GenerateResource.cache
+C:\Users\kimem\source\repos\Morphing\obj\Debug\Morphing.exe
+C:\Users\kimem\source\repos\Morphing\obj\Debug\Morphing.pdb
+C:\Users\kimem\source\repos\Morphing\obj\Debug\Morphing.Controller.resources
+C:\Users\kimem\source\repos\Morphing\obj\Debug\Morphing.Form2.resources
